@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D02863BD1E488F4600E15EE7 /* RNZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = D02863981E488F4600E15EE7 /* RNZipArchive.m */; };
-		D02863BE1E488F4600E15EE7 /* aescrypt.c in Sources */ = {isa = PBXBuildFile; fileRef = D028639D1E488F4600E15EE7 /* aescrypt.c */; };
-		D02863BF1E488F4600E15EE7 /* aeskey.c in Sources */ = {isa = PBXBuildFile; fileRef = D028639E1E488F4600E15EE7 /* aeskey.c */; };
-		D02863C01E488F4600E15EE7 /* aestab.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A01E488F4600E15EE7 /* aestab.c */; };
-		D02863C11E488F4600E15EE7 /* entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A41E488F4600E15EE7 /* entropy.c */; };
-		D02863C21E488F4600E15EE7 /* fileenc.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A61E488F4600E15EE7 /* fileenc.c */; };
-		D02863C31E488F4600E15EE7 /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A81E488F4600E15EE7 /* hmac.c */; };
-		D02863C41E488F4600E15EE7 /* prng.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863AA1E488F4600E15EE7 /* prng.c */; };
-		D02863C51E488F4600E15EE7 /* pwd2key.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863AC1E488F4600E15EE7 /* pwd2key.c */; };
-		D02863C61E488F4600E15EE7 /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863AE1E488F4600E15EE7 /* sha1.c */; };
-		D02863C71E488F4600E15EE7 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B21E488F4600E15EE7 /* ioapi.c */; };
-		D02863C81E488F4600E15EE7 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B41E488F4600E15EE7 /* mztools.c */; };
-		D02863C91E488F4600E15EE7 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B61E488F4600E15EE7 /* unzip.c */; };
-		D02863CA1E488F4600E15EE7 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B81E488F4600E15EE7 /* zip.c */; };
-		D02863CB1E488F4600E15EE7 /* RNZASSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = D02863BB1E488F4600E15EE7 /* RNZASSZipArchive.m */; };
+		493F97E5227B1AA000CB1A18 /* RNZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = D02863981E488F4600E15EE7 /* RNZipArchive.m */; };
+		493F97E8227B1AA000CB1A18 /* aescrypt.c in Sources */ = {isa = PBXBuildFile; fileRef = D028639D1E488F4600E15EE7 /* aescrypt.c */; };
+		493F97E9227B1AA000CB1A18 /* aeskey.c in Sources */ = {isa = PBXBuildFile; fileRef = D028639E1E488F4600E15EE7 /* aeskey.c */; };
+		493F97EB227B1AA000CB1A18 /* aestab.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A01E488F4600E15EE7 /* aestab.c */; };
+		493F97EF227B1AA000CB1A18 /* entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A41E488F4600E15EE7 /* entropy.c */; };
+		493F97F1227B1AA000CB1A18 /* fileenc.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A61E488F4600E15EE7 /* fileenc.c */; };
+		493F97F3227B1AA000CB1A18 /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863A81E488F4600E15EE7 /* hmac.c */; };
+		493F97F5227B1AA000CB1A18 /* prng.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863AA1E488F4600E15EE7 /* prng.c */; };
+		493F97F7227B1AA000CB1A18 /* pwd2key.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863AC1E488F4600E15EE7 /* pwd2key.c */; };
+		493F97F9227B1AA000CB1A18 /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863AE1E488F4600E15EE7 /* sha1.c */; };
+		493F97FC227B1AA000CB1A18 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B21E488F4600E15EE7 /* ioapi.c */; };
+		493F97FE227B1AA000CB1A18 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B41E488F4600E15EE7 /* mztools.c */; };
+		493F9800227B1AA000CB1A18 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B61E488F4600E15EE7 /* unzip.c */; };
+		493F9802227B1AA000CB1A18 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = D02863B81E488F4600E15EE7 /* zip.c */; };
+		493F9805227B1AA000CB1A18 /* RNZASSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = D02863BB1E488F4600E15EE7 /* RNZASSZipArchive.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -200,6 +200,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = D061F2211E4887C4000350B4;
@@ -217,21 +218,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D02863C61E488F4600E15EE7 /* sha1.c in Sources */,
-				D02863C21E488F4600E15EE7 /* fileenc.c in Sources */,
-				D02863C81E488F4600E15EE7 /* mztools.c in Sources */,
-				D02863C31E488F4600E15EE7 /* hmac.c in Sources */,
-				D02863C91E488F4600E15EE7 /* unzip.c in Sources */,
-				D02863BF1E488F4600E15EE7 /* aeskey.c in Sources */,
-				D02863C01E488F4600E15EE7 /* aestab.c in Sources */,
-				D02863BE1E488F4600E15EE7 /* aescrypt.c in Sources */,
-				D02863C11E488F4600E15EE7 /* entropy.c in Sources */,
-				D02863C41E488F4600E15EE7 /* prng.c in Sources */,
-				D02863C71E488F4600E15EE7 /* ioapi.c in Sources */,
-				D02863CB1E488F4600E15EE7 /* RNZASSZipArchive.m in Sources */,
-				D02863CA1E488F4600E15EE7 /* zip.c in Sources */,
-				D02863C51E488F4600E15EE7 /* pwd2key.c in Sources */,
-				D02863BD1E488F4600E15EE7 /* RNZipArchive.m in Sources */,
+				493F97E5227B1AA000CB1A18 /* RNZipArchive.m in Sources */,
+				493F97E8227B1AA000CB1A18 /* aescrypt.c in Sources */,
+				493F97E9227B1AA000CB1A18 /* aeskey.c in Sources */,
+				493F97EB227B1AA000CB1A18 /* aestab.c in Sources */,
+				493F97EF227B1AA000CB1A18 /* entropy.c in Sources */,
+				493F97F1227B1AA000CB1A18 /* fileenc.c in Sources */,
+				493F97F3227B1AA000CB1A18 /* hmac.c in Sources */,
+				493F97F5227B1AA000CB1A18 /* prng.c in Sources */,
+				493F97F7227B1AA000CB1A18 /* pwd2key.c in Sources */,
+				493F97F9227B1AA000CB1A18 /* sha1.c in Sources */,
+				493F97FC227B1AA000CB1A18 /* ioapi.c in Sources */,
+				493F97FE227B1AA000CB1A18 /* mztools.c in Sources */,
+				493F9800227B1AA000CB1A18 /* unzip.c in Sources */,
+				493F9802227B1AA000CB1A18 /* zip.c in Sources */,
+				493F9805227B1AA000CB1A18 /* RNZASSZipArchive.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
